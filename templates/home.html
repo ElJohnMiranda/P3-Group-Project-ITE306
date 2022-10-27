@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html>
+
+     <head>
+          <title>Profile</title>
+          <link rel="stylesheet" href="{{ url_for('static', filename='css/styles3.css') }}">
+          <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+
+     </head>
+
+     <body>
+          <header>
+                 <center><h2 style="font-family:Brush Script MT;">Coffee Shop</h2> </center>
+          </header>
+
+          <section>
+               <nav id="mySidenav" class="sidenav">
+
+
+              <a href="{{ url_for('home') }}" id="successp1">Home</a>
+              <a href="{{ url_for('product') }}" id="gallery">Product</a>
+              <a href="{{ url_for('contact') }}" id="diary">Contact</a>
+
+              <img src="{{ url_for('static', filename='images/bannerprofile.png') }}" style="width: 100%; height: 60px;">
+              <img src="{{ url_for('static', filename='images/shop3.jpg') }}" align="left" style="width: 150px; padding-left: 10px;">
+              <h3> <img src="{{ url_for('static', filename='images/shop3.jpg') }}" align="left" style="width: 150px; padding-left: 10px;"></h3>
+              <h3><img src="{{ url_for('static', filename='images/shop3.jpg') }}" align="left" style="width: 150px; padding-left: 10px;"></h3>
+
+              <p style="font-size: 21px; alignment: justify;">A coffeehouse, coffee shop, or café is an establishment that primarily serves coffee of various types, notably espresso, latte, and cappuccino. Some coffeehouses may serve cold drinks, such as iced coffee and iced tea, as well as other non-caffeinated beverages</p>
+
+
+
+
+
+
+               </nav>
+
+              <content>
+
+                  <img src="{{ url_for('static', filename='images/shop.jpg') }}" style="width: 100%; height: 94%;">
+
+
+              </content>
+          </section>
+
+          <footer>
+                 <p>2022</p>
+          </footer>
+
+     </body>
+
+</html>
