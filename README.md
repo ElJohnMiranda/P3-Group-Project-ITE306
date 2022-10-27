@@ -19,7 +19,7 @@ Contacts
 ![Screenshot (213)](https://user-images.githubusercontent.com/113341310/198255753-023c7a7d-1210-4488-b36e-038e96cfb779.png)
 
 # Technologies
-1.HTML5
+1. HTML5
 2. Css
 3. Python
 4. Flask
