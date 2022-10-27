@@ -1,16 +1,15 @@
-#Proponents
+# Proponents
 1. EL John Miranda
 2. John Dave Badua
 3. Vincent Urance
 4. Richard Dolores
 5. Warren Bercasio
 # P3-Group-Project-ITE306
-#Description
-An Online website that you can browse, look for different kind of coffee. 
-#coffee shop website - ITE306cafe
+
+# coffee shop website - ITE306cafe
 
 
-#Screenshots
+# Screenshots
 Home
 ![Screenshot (210)](https://user-images.githubusercontent.com/113341310/198255526-44e2e792-9f2a-4563-9381-8a4b04244fd4.png)
 Product
@@ -19,7 +18,7 @@ Product
 Contacts
 ![Screenshot (213)](https://user-images.githubusercontent.com/113341310/198255753-023c7a7d-1210-4488-b36e-038e96cfb779.png)
 
-#Technologies
+# Technologies
 1.HTML5
 2. Css
 3. Python
