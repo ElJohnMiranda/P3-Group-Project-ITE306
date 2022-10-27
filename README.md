@@ -1,4 +1,4 @@
-#Propenents
+#Proponents
 1. EL John Miranda
 2. John Dave Badua
 3. Vincent Urance
